@@ -7,3 +7,5 @@ The view for the very smallest devices is quite often a simple single column of 
 The below walkthrough takes you through this approach with a very simple layout. In a production site you are likely to have more things to adjust within your media queries, however the approach would be exactly the same.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries
+
+Live web: https://gitthuma.github.io/mobile-first-layout/
