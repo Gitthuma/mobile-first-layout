@@ -48,3 +48,19 @@ nav a:hover {
 article {
   margin-bottom: 1em;
 }
+
+@media screen and (min-width: 40em) {
+  article {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    column-gap: 20px;
+  }
+
+  nav ul {
+    display: flex;
+  }
+
+  nav li {
+    flex: 1;
+  }
+}
